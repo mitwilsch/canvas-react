@@ -1,7 +1,7 @@
 {
-  "name": "pizzaGame",
+  "name": "canvas-react",
   "version": "0.0.1",
-  "description": "pizza game",
+  "description": "canvas tests",
   "main": "src/server/index.js",
   "scripts": {
     "devClient": "webpack-dev-server --mode development --devtool inline-source-map --hot",
